@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chirstmas Snowglobe
+* source:	https://sketchfab.com/3d-models/chirstmas-snowglobe-fad1a8b2fb2a4a2493496fa690b8ef94
+* author:	caiozed (https://sketchfab.com/caiozed)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chirstmas Snowglobe" (https://sketchfab.com/3d-models/chirstmas-snowglobe-fad1a8b2fb2a4a2493496fa690b8ef94) by caiozed (https://sketchfab.com/caiozed) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
